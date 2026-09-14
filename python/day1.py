@@ -1,1 +1,7 @@
 print("你好，python")
+print("名字：范耀鸿")
+print("学校：贵州民族大学")
+print("今天日期9月14日")
+print(1+2)
+print("你好python")
+print("第一行\n第二行\n第三行\n")
